@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Safrá",
     "version": "1.0.0",
-    "description": "A basic example extension with only required keys",
+    "description": "Safra és una extensió de Google Chrome que et permet traduir qualsevol pàgina web al valencià de forma ràpida i fàcil.",
     "icons": {
       "32": "32-icon.png"
     },
